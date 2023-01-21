@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/warwar/static/css/main.da3f8501.css",
+    "main.js": "/warwar/static/js/main.cc7f01d9.js",
+    "index.html": "/warwar/index.html",
+    "main.da3f8501.css.map": "/warwar/static/css/main.da3f8501.css.map",
+    "main.cc7f01d9.js.map": "/warwar/static/js/main.cc7f01d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da3f8501.css",
+    "static/js/main.cc7f01d9.js"
+  ]
+}
