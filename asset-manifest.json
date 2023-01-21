@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/warwar/static/css/main.da3f8501.css",
-    "main.js": "/warwar/static/js/main.c0aec79b.js",
+    "main.js": "/warwar/static/js/main.40c4b220.js",
     "index.html": "/warwar/index.html",
     "main.da3f8501.css.map": "/warwar/static/css/main.da3f8501.css.map",
-    "main.c0aec79b.js.map": "/warwar/static/js/main.c0aec79b.js.map"
+    "main.40c4b220.js.map": "/warwar/static/js/main.40c4b220.js.map"
   },
   "entrypoints": [
     "static/css/main.da3f8501.css",
-    "static/js/main.c0aec79b.js"
+    "static/js/main.40c4b220.js"
   ]
 }
